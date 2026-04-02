@@ -48,3 +48,49 @@ body
   display:block;
 }
 
+.content{
+  widht:90%;
+  margin:auto;
+  height:420px;
+  padding:0.1px;
+  background:#fff;
+  color:#333;
+}
+
+.border{
+  border:2px solid #4887b9;
+  margin-top:1pc;
+  padding-bottom:1pc;
+  padding-left:2pc;
+  padding-right:2pc;
+}
+
+.kiri{
+  widht:30%;
+  float:left;
+  margin:auto;
+  background:#fff;
+  height:420px;
+}
+
+.kanan{
+  widht:30%;
+  float:left;
+  margin:auto;
+  background:#fff;
+  height:420px;
+}
+
+.undecor{
+  text-decoration:none;
+}
+
+.footer{
+  widht:90%;
+  margin:auto;
+  height:40px;
+  line-height:40px;
+  background:#417aa8;
+  color:#fff;
+  margin-bottom: 1pc;
+}
